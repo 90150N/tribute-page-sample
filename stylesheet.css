@@ -1,0 +1,36 @@
+body{
+  font-family: 'Open Sans', sans-serif;
+  background-color: #EAEAEA;
+  text-align:center;
+}
+
+#title{
+  font-family: 'Cinzel', serif;
+  font-size: 3em;
+}
+
+#img-div {
+  display: inline-block;
+  background-color: #f4f4f4;
+  padding: 10px;
+}
+
+#image {
+  max-width: 100%;
+  display: block;
+  margin: auto;
+}
+#img-caption{
+  padding-left: 10%;
+  padding-right: 10%;
+  padding-top: 10px;
+}
+ul{
+  font-family: 'Raleway', sans-serif;
+}
+#tribute-info{
+  display: block;
+  margin: auto;
+  max-width:660px;
+}
+
